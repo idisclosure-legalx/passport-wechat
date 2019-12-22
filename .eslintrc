@@ -1,8 +1,0 @@
-{
-  "env": {
-    "browser": false,
-    "node": true,
-    "es6": false
-  },
-  "extends": "eslint:recommended"
-}
