@@ -1,6 +1,6 @@
 {
   "name": "@zhennann/passport-wechat",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "main": "lib/index.js",
   "description": "passport strategy for authenticating with wechat",
   "homepage": "http://www.liangyali.com",
@@ -28,13 +28,13 @@
   ],
   "devDependencies": {
     "babel-eslint": "^10.0.1",
-    "eslint": "^5.16.0",
-    "eslint-config-egg": "^7.4.1",
+    "eslint": "^6.8.0",
+    "eslint-config-egg": "^8.0.1",
     "eslint-plugin-vuefix": "^0.2.1"
   },
   "dependencies": {
     "debug": "latest",
-    "passport": "^0.3.0",
+    "passport": "^0.4.1",
     "passport-strategy": "^1.0.0",
     "wechat-oauth": "^1.0.1",
     "xtend": "^4.0.0"
