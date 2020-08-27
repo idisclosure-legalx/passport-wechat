@@ -1,6 +1,6 @@
 {
   "name": "@zhennann/passport-wechat",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "main": "lib/index.js",
   "description": "passport strategy for authenticating with wechat",
   "homepage": "http://www.liangyali.com",
